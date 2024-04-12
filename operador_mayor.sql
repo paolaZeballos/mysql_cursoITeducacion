@@ -1,0 +1,2 @@
+use laboratorio;
+SELECT * FROM NACIMIENTOS WHERE HIJOS_TOTAL > 10;
