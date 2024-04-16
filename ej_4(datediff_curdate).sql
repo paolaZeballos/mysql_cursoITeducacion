@@ -1,0 +1,3 @@
+use laboratorio;
+select *, DATEDIFF(CURDATE(), FECHAPEDIDO)as 'DIAS TRANSCURRIDOS'
+from PEDIDOS_NEPTUNO;
