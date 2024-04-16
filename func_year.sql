@@ -1,0 +1,1 @@
+SELECT YEAR(fecha) as 'Año' FROM facturas;

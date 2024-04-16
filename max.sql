@@ -1,0 +1,1 @@
+SELECT Max(cod_producto) FROM Productos;

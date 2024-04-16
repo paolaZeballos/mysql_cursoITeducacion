@@ -1,0 +1,1 @@
+SELECT MONTHNAME(CURDATE()) as 'Nombre del mes';

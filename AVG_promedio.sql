@@ -1,0 +1,1 @@
+SELECT avg(cod_producto) FROM Productos;

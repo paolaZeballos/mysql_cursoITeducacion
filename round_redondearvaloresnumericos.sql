@@ -1,0 +1,1 @@
+SELECT ROUND(precio/3, 2) FROM articulos;

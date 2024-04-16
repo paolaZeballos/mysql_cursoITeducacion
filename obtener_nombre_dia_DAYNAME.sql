@@ -1,0 +1,1 @@
+SELECT DAYNAME(CURDATE()) as 'Nombre del día';

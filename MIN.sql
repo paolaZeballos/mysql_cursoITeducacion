@@ -1,0 +1,1 @@
+SELECT MIN(cod_producto) FROM Productos;

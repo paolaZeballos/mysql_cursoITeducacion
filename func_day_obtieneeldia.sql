@@ -1,0 +1,1 @@
+SELECT DAY(fecha) as 'DIA' FROM facturas;

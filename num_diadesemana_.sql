@@ -1,0 +1,1 @@
+SELECT DAYOFWEEK(CURDATE()) as 'Número del día de la semana';
