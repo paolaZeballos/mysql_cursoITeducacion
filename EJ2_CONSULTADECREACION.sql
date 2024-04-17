@@ -1,0 +1,3 @@
+use laboratorio;
+create table MUJERES 
+SELECT * FROM NACIMIENTOS WHERE SEXO = 'FEMENINO';

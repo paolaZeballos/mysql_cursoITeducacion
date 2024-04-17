@@ -1,0 +1,4 @@
+
+UPDATE CLIENTES_NEPTUNO
+SET nombrecompania = UPPER(nombrecompania);
+SELECT * FROM CLIENTES_NEPTUNO;
